@@ -1,0 +1,6 @@
+:HL["/vs-technology-vietnam/_next/static/chunks/1hz2kfr1a7gws.css","style"]
+:HL["/vs-technology-vietnam/images/hero-lenses.webp","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"vi","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(vietnamese)","h":112,"c":"$Q2"}]]
+0:{"b":"ahhxRE33PIQKj-Fwj9cCu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
