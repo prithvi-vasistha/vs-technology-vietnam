@@ -1,5 +1,4 @@
-:HL["/vs-technology-vietnam/_next/static/chunks/1hz2kfr1a7gws.css","style"]
-:HL["/vs-technology-vietnam/images/hero-lenses.webp","image",{"fetchPriority":"high"}]
+:HL["/vs-technology-vietnam/_next/static/chunks/0tifu9qippn_q.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"(english)","h":112,"c":"$Q2"}]]
-0:{"b":"ahhxRE33PIQKj-Fwj9cCu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"p7ZjCAkky28FX-YcSghdr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
